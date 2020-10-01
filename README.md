@@ -1,6 +1,6 @@
 # Poi
 
-Check out the main Poi repo here: https://github.com/egoist/poi
+Check out the main Poi repository here: https://github.com/egoist/poi
 
 ## Developing docs
 
